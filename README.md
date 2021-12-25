@@ -4,7 +4,7 @@ CIFAR-10 classification using FishNet
 Develop environment
 - Google Colab
 - Python : 3.7.12 (Google Colab default version)
-- pytorch : 1.10.0+cu111 (Google Colab default version)
+- Pytorch : 1.10.0+cu111 (Google Colab default version)
   
 Written code file is based on 
 - [2018 Computer Vision Class @ Chulalongkorn University Lab 6 - Convolutional Neural Network](https://github.com/sapjunior/chulacv2018/blob/master/Lab%206%20-%20Convolutional%20Neural%20Network.ipynb)
