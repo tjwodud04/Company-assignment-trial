@@ -5,7 +5,7 @@ Written code file is based on
 - [2018 Computer Vision Class @ Chulalongkorn University Lab 6 - Convolutional Neural Network](https://github.com/sapjunior/chulacv2018/blob/master/Lab%206%20-%20Convolutional%20Neural%20Network.ipynb)
 - [FishNet](https://github.com/kevin-ssy/FishNet/tree/b968f0244827e11201471edd8a979bd85027b991)
 - [Deep Learning Zero to All(Pytorch) 10-6 ResNet for cifar10](https://github.com/deeplearningzerotoall/PyTorch/blob/master/lab-10_6_2_Advance-CNN(ResNet_cifar10).ipynb)
-- [TRAINING A CLASSIFIER](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html?highlight=cifar)
+- [Pytorch tutorial - TRAINING A CLASSIFIER](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html?highlight=cifar)
   
 To understand codes and the pytorch better, I took a look at
 - [[PyTorch] 7. Custom Dataset](https://data-panic.tistory.com/21)
