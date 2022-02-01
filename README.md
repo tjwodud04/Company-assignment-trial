@@ -1,4 +1,4 @@
-### GenesisLab-Assignment
+### Company-assignment-trial
 CIFAR-10 classification using FishNet  
   
 Develop environment
